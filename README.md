@@ -142,8 +142,8 @@ Response.failWithMsg(msg)
 
 如果你觉得这个项目对你有帮助，可以请我喝杯咖啡。
 
-<div align="center" style="margin-top: 20px; margin-bottom: 20px; ">
+<div style="margin-top: 20px; margin-bottom: 20px; ">
 
-<img src="https://github.com/user-attachments/assets/91731d85-c8eb-47b8-95f9-4df2e23aee6b" width="300" alt="赞助二维码" />
+<img src="https://github.com/user-attachments/assets/91731d85-c8eb-47b8-95f9-4df2e23aee6b" width="200" alt="赞助二维码" />
 
 </div>
