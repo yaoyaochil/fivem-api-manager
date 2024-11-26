@@ -144,6 +144,6 @@ Response.failWithMsg(msg)
 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px; ">
 
-<img src="https://github.com/user-attachments/assets/fcc864c9-559a-496e-a8f5-a146e35833e7" width="300" height="300" alt="赞助二维码" />
+<img src="https://github.com/user-attachments/assets/91731d85-c8eb-47b8-95f9-4df2e23aee6b" width="300" alt="赞助二维码" />
 
 </div>
