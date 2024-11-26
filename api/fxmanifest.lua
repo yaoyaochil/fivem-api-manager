@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'API with yaoyaochil'
-description 'API Resource'
+author 'yaoyaochil'
+description '接口服务'
 version '1.0.0'
 
 server_scripts {

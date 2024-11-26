@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'yaoyaochil'
-description 'ETO组织-三体'
+description '系统服务接口'
 version '1.0.0'
 
 server_scripts {
